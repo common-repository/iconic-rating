@@ -1,0 +1,409 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Iconic Rating\n"
+"POT-Creation-Date: 2016-09-28 12:14+0200\n"
+"PO-Revision-Date: 2016-10-13 19:41+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: iconicr.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: iconicr.php:66
+msgid "I hated it"
+msgstr "Lo odiaba"
+
+#: iconicr.php:67
+msgid "I didnt like it"
+msgstr "No me gustó"
+
+#: iconicr.php:68
+msgid "It was OK"
+msgstr "Estaba bien"
+
+#: iconicr.php:69
+msgid "I liked it"
+msgstr "Me ha gustado"
+
+#: iconicr.php:70
+msgid "I loved it"
+msgstr "Me encantó"
+
+#: iconicr.php:71
+msgid "Please, vote"
+msgstr "Por favor, vote"
+
+#: iconicr.php:71
+msgid "One lonely vote"
+msgstr "Un solitario voto"
+
+#: iconicr.php:71
+msgid "votes"
+msgstr "votos"
+
+#: iconicr.php:75
+msgid "/ One person, one vote"
+msgstr "/ Una persona, un voto"
+
+#: optionspage.php:13
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes suficientes permisos para acceder a esta página."
+
+#: optionspage.php:16
+msgid "Iconic Rating Plugin Options"
+msgstr "Opciones del Plugin ICONIC RATING"
+
+#: optionspage.php:35
+msgid "Font Awesome Icons"
+msgstr "Iconos Font Awesome"
+
+#: optionspage.php:36
+msgid "Text on votes &amp; averages"
+msgstr "Texto en votos y promedios"
+
+#: optionspage.php:37
+msgid "2D Hover Transitions"
+msgstr "Transiciones 2D (on Hover)"
+
+#: optionspage.php:38
+msgid "On Uninstall"
+msgstr "Al desinstalar"
+
+#: optionspage.php:61
+msgid "Where the icons appear and how they looks"
+msgstr "Donde los iconos aparecen y cómo se ven"
+
+#: optionspage.php:62
+msgid "The text for icons (in tooltip), votes and averages"
+msgstr "El texto de los iconos (en un tooltip), votos y promedios"
+
+#: optionspage.php:63
+msgid "Some behaviour thanks to CSS3 hover transitions"
+msgstr "Algunos comportamientos gracias a las transiciones CSS3"
+
+#: optionspage.php:64
+msgid "Choose what to do..."
+msgstr "Elija qué hacer..."
+
+#: optionspage.php:93
+msgid "<em>Star</em> (or whatever Font Awsome)  Icons"
+msgstr "<em>Iconos Estrella</em> (o cualquier icono de Font Awesome)"
+
+#: optionspage.php:94
+msgid "Number of icons"
+msgstr "Número de iconos"
+
+#: optionspage.php:95
+msgid ""
+"This should be established at start and should remain unchanged, or the "
+"average could be misleading."
+msgstr ""
+"Esto debe establecerse al inicio y debe permanecer sin cambios, o el "
+"promedio podría ser engañoso."
+
+#: optionspage.php:97
+msgid "Font Awesome icon"
+msgstr "Ícono Font Awesome"
+
+#: optionspage.php:98
+msgid "Font Awesome icon when filled (or hovered)"
+msgstr "Icono de Font Awesome lleno (o activado)"
+
+#: optionspage.php:99
+msgid "is the source for our iconic rating system; please visit its "
+msgstr ""
+"es la fuente de nuestro sistema de clasificación icónica; por favor visite su"
+
+#: optionspage.php:100
+msgid "complete set of icons"
+msgstr "set completo de iconos"
+
+#: optionspage.php:100
+msgid "to select the appropriate ones for you."
+msgstr "para seleccionar los apropiados para usted."
+
+#: optionspage.php:102
+msgid "Opacity for icons when not <em>filled</em> with integer values"
+msgstr ""
+"Opacidad de los iconos cuando no está <em>completo</em> (no tiene valor "
+"entero)"
+
+#: optionspage.php:103
+msgid "Minimal Opacity value"
+msgstr "Mínimo valor de opacidad"
+
+#: optionspage.php:106
+msgid "Use the opacity to distinguish partial filled stars"
+msgstr "Usar la opacidad para distinguir estrellas llenadas parcialmente"
+
+#: optionspage.php:108
+msgid "Where to show the </em>stars</em> icons"
+msgstr "Dónde mostrar los iconos"
+
+#: optionspage.php:110
+msgid "Write the post types where the icons will appear (separated by commas)"
+msgstr ""
+"Escriba los tipos de post donde los iconos aparecerán (separados por comas)"
+
+#: optionspage.php:113
+msgid ""
+"And write the specific categories on such post types (separated by commas); "
+"if empty, it means every category."
+msgstr ""
+"Y escribir las categorías específicas en este tipo de post (separadas por "
+"comas); si está vacío, significa todas las categorías."
+
+#: optionspage.php:116
+msgid ""
+"Write the DIV  <em>.class</em> or <em>#id</em> where it must appear; or..."
+msgstr ""
+"Escribir la <em>.class</em> o el <em>#id</em> del DIV donde debe aparecer; "
+"o..."
+
+#: optionspage.php:117
+msgid "...try to put it at the end of the content (DIV has priority)."
+msgstr "…tratar de colocarlo al final del contenido (DIV tiene prioridad)"
+
+#: optionspage.php:118
+msgid ""
+"Of course, we can always have shortcodes... (which overrides the two "
+"positions above considered)"
+msgstr ""
+"Por supuesto, siempre podemos tener shortcodes... (que reemplazaría a las "
+"dos posiciones anteriores consideradas)"
+
+#: optionspage.php:132
+msgid "Text for <em>star</em> icons, votes &amp; averages"
+msgstr "Texto de iconos, votos y promedios"
+
+#: optionspage.php:133
+msgid "Text for each <em>star</em> icons (on a tooltip, when over)"
+msgstr "Texto para los iconos de cada <em>estrella</em> (en un tooltip)"
+
+#: optionspage.php:138
+msgid ""
+"If there is more than 5 stars, the text of the first field will be chosen "
+"for all of them. The expression <em>%k%</em> in the text represents the "
+"value of each <em>star</em>; and <em>%kv%</em> represents the votes on each "
+"star."
+msgstr ""
+"Si hay más de 5 estrellas, el texto del primer campo será elegido para todos "
+"ellos. La expresión <em>%k%</em> en el texto representa el valor de cada "
+"<em>estrella</em>; y <em>%kv%</em> representa los votos de cada una."
+
+#: optionspage.php:140
+msgid ""
+"Texts for votes when there is none, there is only one, and there are more "
+"than one votes, separated by asterisks (*)"
+msgstr ""
+"Textos de votos cuando no hay ninguno, hay solamente uno, y hay más de uno, "
+"separados por asteriscos (*)"
+
+#: optionspage.php:142
+msgid ""
+"For example: <em>Please, vote * %v% vote * %v% votes</em>. The expression "
+"<em>%v%</em> in the text represents the number of votes."
+msgstr ""
+"Por ejemplo: <em>Por favor, vote * %v% voto * %v% votos</em>. La expresión "
+"<em>%v%</em> representa el número de votos."
+
+#: optionspage.php:144
+msgid "Text when already voted"
+msgstr "Texto cuando ya votó"
+
+#: optionspage.php:146
+msgid "For example: <em>/ One person, one vote</em>"
+msgstr "Por ejemplo: <em>/ Una persona, un voto</em>"
+
+#: optionspage.php:148
+msgid "Text for displaying average"
+msgstr "Texto para mostrar promedio"
+
+#: optionspage.php:150
+msgid ""
+"For example: <em>%avg% (%tv% %not%)</em>. The expression <em>%avg%</em> in "
+"the text represents the decimal average; the expression <em>%tv%</em> "
+"represents the text for zero, one or many votes; and the expression %not% "
+"represents the text when already voted (and it only appears on such cases)."
+msgstr ""
+"Por ejemplo: <em>%avg% (%tv% %not%)</em>. La expresión <em>%avg%</em> "
+"representa el promedio decimal; la expresión <em>%tv%</em> representa el "
+"texto para ningún voto, un voto, o varios votos; y la expresión %not% "
+"representa el texto cuando ya se ha votado (y aparecería solo en tales "
+"casos)."
+
+#: optionspage.php:159
+msgid "Grow"
+msgstr "Crecer"
+
+#: optionspage.php:159
+msgid "Shrink"
+msgstr "Achicarse"
+
+#: optionspage.php:159
+msgid "Pulse"
+msgstr "Pulsar"
+
+#: optionspage.php:159
+msgid "Pulse Grow"
+msgstr "Pulsar Creciendo"
+
+#: optionspage.php:159
+msgid "Pulse Shrink"
+msgstr "Pulsar Reduciendo"
+
+#: optionspage.php:159
+msgid "Push"
+msgstr "Empujar"
+
+#: optionspage.php:159
+msgid "Pop"
+msgstr "Estallar"
+
+#: optionspage.php:159
+msgid "Bounce In"
+msgstr "Rebote Adentro"
+
+#: optionspage.php:159
+msgid "Bounce Out"
+msgstr "Rebote Afuera"
+
+#: optionspage.php:159
+msgid "Rotate"
+msgstr "Girar"
+
+#: optionspage.php:159
+msgid "Grow Rotate"
+msgstr "Aumentar Rtando"
+
+#: optionspage.php:159
+msgid "Float"
+msgstr "Flotante"
+
+#: optionspage.php:159
+msgid "Sink"
+msgstr "Hundirse"
+
+#: optionspage.php:159
+msgid "Bob"
+msgstr "Bob"
+
+#: optionspage.php:159
+msgid "Hang"
+msgstr "Colgar"
+
+#: optionspage.php:159
+msgid "Skew"
+msgstr "Inclinarse"
+
+#: optionspage.php:159
+msgid "Skew Forward"
+msgstr "Inclinarse Adelante"
+
+#: optionspage.php:159
+msgid "Skew Backward"
+msgstr "Inclinación Atrás"
+
+#: optionspage.php:159
+msgid "Wobble Vertical"
+msgstr "Bamboleo Vertical"
+
+#: optionspage.php:159
+msgid "Wobble Horizontal"
+msgstr "Bamboleo Horizontal"
+
+#: optionspage.php:159
+msgid "Wobble to Bottom Right"
+msgstr "Bamboleo Abajo a la Derecha"
+
+#: optionspage.php:159
+msgid "Wobble to Top Right"
+msgstr "Bamboleo Arriba a la Derecha"
+
+#: optionspage.php:159
+msgid "Wobble Top"
+msgstr "Bamboleo Arriba"
+
+#: optionspage.php:159
+msgid "Wobble Bottom"
+msgstr "Bamboleo Abajo"
+
+#: optionspage.php:159
+msgid "Wobble Skew"
+msgstr "Bamboleo Inclinado"
+
+#: optionspage.php:159
+msgid "Buzz"
+msgstr "Zumba"
+
+#: optionspage.php:159
+msgid "Buzz Out"
+msgstr "Zumba Fuera"
+
+#: optionspage.php:161
+msgid "Select one of the following hover transitions"
+msgstr "Seleccione una de las siguientes transiciones"
+
+#: optionspage.php:164
+msgid "No hover transition selected at this moment"
+msgstr "Sin transición (on hover) seleccionada en este momento"
+
+#: optionspage.php:172
+msgid "Credits for the CSS3 transitions goes to IanLunn, at "
+msgstr "Los créditos de las transiciones CSS3 va a IanLunn, en"
+
+#: optionspage.php:182
+msgid "Keep all data of rating, as well as option settings"
+msgstr "Mantener todos los datos de calificación, así como las opciones"
+
+#: optionspage.php:183
+msgid "Keep only the options settings"
+msgstr "Mantener sólo la configuración de opciones"
+
+#: optionspage.php:184
+msgid "Keep only the data of rating (averages & votes)"
+msgstr "Mantener sólo los datos de calificación (medias y votos)"
+
+#: optionspage.php:185
+msgid "Delete all, rating data and settings"
+msgstr "Borrar todo, valoraciones y configuración"
+
+#: optionspage.php:196
+msgid "Choose what to do once uninstalled this plugin"
+msgstr "Elija qué hacer una vez desinstalado este plugin"
+
+#. Plugin Name of the plugin/theme
+msgid "Iconic Rating"
+msgstr "Iconic Rating"
+
+#. Description of the plugin/theme
+msgid ""
+"Rate any type of post with stars and other awesome icons, adding some "
+"effects on hover (and tooltips)."
+msgstr ""
+"Evaluar cualquier tipo de post con estrellas y otros iconos impresionantes, "
+"añadiendo algunos efectos (y tooltips)."
+
+#. Author of the plugin/theme
+msgid "Ernesto Ortiz"
+msgstr "Ernesto Ortiz"
+
+#~ msgid ""
+#~ "If there is more than 5 stars, the text of the first field will be chosen "
+#~ "for all of them. The expression <em>%k%</em> in the text represents the "
+#~ "value of each <em>star</em>."
+#~ msgstr ""
+#~ "Si hay más de 5 estrellas, el texto del primer campo se elegirá para "
+#~ "todas ellas. La expresión<em>%k%</em> representa el valor de cada "
+#~ "<em>estrella</em>."

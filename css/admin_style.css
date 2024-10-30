@@ -1,0 +1,97 @@
+/*** OPTION PAGE' style ***/
+#optionspage h2{
+    background:#e8e8e8;
+    color:#008EC2;
+    text-align:center;
+    border-bottom:1px solid #eee;
+}
+#optionspage form h2{
+    padding: 5px 20px;
+    display: block;
+    height: 30px;
+    cursor: pointer;
+    color:#aaa;
+    line-height: 33px;
+    font-size: 19px;
+    background: #f4f4f4;
+    border-top:1px solid #eee;
+    border-bottom:1px solid #eee;
+    text-shadow:none;
+}
+#optionspage form h2:hover{
+    background: #eee;
+}
+#optionspage form h2:hover:after,
+#optionspage form h2.checked:hover:after{
+    font-family: 'dashicons';
+    position:absolute;
+    right:20px;
+    vertical-align: top;
+    padding-right:10px;
+}
+#optionspage form h2:hover:after {
+    content: "\f347";
+}
+#optionspage form h2.checked:hover:after{
+    content: "\f343";
+}
+#optionspage form h2.checked{
+    background: #e4e4e4;
+    color: #a8a8a8;
+    margin-bottom:0;
+}
+#optionspage .form-table{
+    overflow: hidden;
+    display:none;
+    background: #ededed;
+    color: #999;
+    line-height: 1.6em;
+    font-size: 1em;
+    margin-top:-4px;
+    box-shadow: 0px 1px 1px 1px rgba(205,205,205,0.3);
+}
+#optionspage .form-table * {
+    color:#999;
+    font-size:1.04em;
+}
+#optionspage .form-table .description,
+#optionspage .form-table .description * {
+    color:#bbb;
+    font-size: 0.9em;
+}
+#optionspage .form-table th {
+    font-size:1.1em;
+    padding: 30px 40px 0 20px;
+    width:30%;
+    background:#eaeaea;
+}
+#optionspage .form-table td {
+    padding: 30px 20px 30px 40px;
+}
+#optionspage .form-table td h4{
+    margin-top:0;
+}
+#optionspage input#submit {
+    width: 40%;
+    margin: 0 30%;
+    font-size: 1.4em;
+    text-shadow:none;
+}
+#optionspage input#submit:hover{
+    background:#444;border:none;
+}
+#optionspage .form-table td h4 {
+    color:#a6a6a6;
+    font-size: 1.2em!important;
+    border-bottom: 1px dashed #cfcfcf;
+    padding-bottom: 8px;
+}
+#optionspage .form-table td h4 em {color:#a6a6a6;}
+#optionspage .form-table td h4{padding-top:20px;}
+#optionspage .form-table td h4:first-of-type{padding-top:0;}
+
+/** messages **/
+div#setting-error-settings_updated {
+    background: rgba(255,255,255,0.4)!important;
+    color: #aaa!important;
+}
